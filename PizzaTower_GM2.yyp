@@ -8685,6 +8685,8 @@
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"sfx.bank","CopyToMask":-1,"filePath":"datafiles/sound/Desktop",},
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"Gameframe_License.txt","CopyToMask":-1,"filePath":"datafiles/licenses",},
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"noisecredits.txt","CopyToMask":-1,"filePath":"datafiles",},
+    {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"steam_api64.dll","CopyToMask":-1,"filePath":"datafiles",},
+    {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"Steamworks_x64.dll","CopyToMask":-1,"filePath":"datafiles",},
   ],
   "MetaData": {
     "IDEVersion": "2022.0.2.51",
